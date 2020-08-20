@@ -6,7 +6,7 @@ As stated in the 17/08/2020 class video (at the end),
 
 Take one commercial Hard Disc - get its parameters.         
 
-make one commercial SDD store - get its parameters.    
+Take one commercial SDD store - get its parameters.    
 
 Plot two graphs.           
 
@@ -18,6 +18,4 @@ The plot X/Y axis, and what they contain are in the video.
 [Link](https://iiitaphyd-my.sharepoint.com/:w:
 /g/personal/harsh_sinha_students_iiit_ac_in/Efg5SjzmdpNLtR2i1JXI5AgBalDEignC8JHxoYrqAPcwqQ?
 e=8QHNnO)
-
-
 
