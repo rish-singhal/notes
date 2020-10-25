@@ -1,3 +1,5 @@
+DEADLINE: 31st October 2020
+
 Research → Think about the term paper and presentation.
 
 Choose any research topic of your interest and implement. Write your analysis and summary in the format of a research paper.
