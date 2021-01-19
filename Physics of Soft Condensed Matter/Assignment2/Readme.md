@@ -7,8 +7,8 @@ atoms traversing this volume for some time. And also find the density (N/volume)
 .
 
 INPUT: x, y, z, dx, dy, dz 
-OUTPUT: n(x,y,z:t)/(dxdydz)
+OUTPUT: n(x,y,z:t)/(dxdydz) (Plot as a function of time)
 
-Also, the average of this quantity over time period t.
+Also, calcultate the average of this quantity over time period t.
 
 Q2.  --- 
