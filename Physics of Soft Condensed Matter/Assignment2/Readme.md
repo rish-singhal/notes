@@ -11,8 +11,7 @@ OUTPUT: n(x,y,z:t)/(dxdydz) (Plot as a function of time -- FRAMES)
 
 Also, calcultate the average of this quantity over time period t.
 
-Q2. Take two points (x1, y1, z1) and (x2, y2, z2), and two volumes (as an input)
-. Calculate the number of FRAMES for which both are non-empty (or there is
+Q2. Take two points (x1, y1, z1) and (x2, y2, z2), and two volumes (as an input). Calculate the number of FRAMES for which both are non-empty (or there is
 atleast one atom in both volumes).
 
 ## Instructions 
