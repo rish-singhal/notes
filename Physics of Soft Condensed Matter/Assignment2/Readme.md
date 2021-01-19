@@ -12,3 +12,7 @@ OUTPUT: n(x,y,z:t)/(dxdydz) (Plot as a function of time)
 Also, calcultate the average of this quantity over time period t.
 
 Q2.  --- 
+
+## Instructions 
+
+TBA: Add insturctions for the compilation
