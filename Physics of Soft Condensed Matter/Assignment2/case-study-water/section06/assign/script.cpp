@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+#include "matplotlibcpp.h"
+namespace plt = matplotlibcpp;
+
+
 int main() {
   // to take the first line as input
   //  and saving it into temp ... which won't be used
