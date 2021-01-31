@@ -25,4 +25,12 @@ Q1. Take all (pairs) and then take distance -> form histogram (FOR ONE FRAME).
 - For getting matplotlib-cpp working, checkout [matplotlib-cpp](https:
 //github.com/lava/matplotlib-cpp)
 
+- Run
+```bash
+
+g++ script.cpp -std=c++11 -I/usr/include/python3 -lpython3
+
+```
+
 [] Add insturctions for the compilation
+[] Use matplotlib-cpp (if it works) else find out alternative
